@@ -3,7 +3,7 @@
 
 The python codes above are the one used in the manuscript "Deep Hybrid Learning prediction of patient specific quality assurance in radiotherapy: implementation in clinical routine" submitted in Medical Physics.
 
-Manuscript ID: xxx.
+Manuscript ID: 22-1397.
 
 - "Complexity_index" code allows to obtain the complexity indexes of radiotherapy plans using Raystation treatment planning software
 - "Machine Learning" code is the code developed to train the predicting machine learning models for Thorax and Head tumour location
