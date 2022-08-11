@@ -1,4 +1,4 @@
-# DeepHybridLearning_RadiotherapyQA_Depository_ManuscriptID_xxx
+# DeepHybridLearning_RadiotherapyQA_Depository_ManuscriptID_22-1397
 
 
 The python codes above are the one used in the manuscript "Deep Hybrid Learning prediction of patient specific quality assurance in radiotherapy: implementation in clinical routine" submitted in Medical Physics.
